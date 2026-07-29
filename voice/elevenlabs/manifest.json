@@ -1,6 +1,6 @@
 {
   "provider": "ElevenLabs",
-  "generatedAt": "2026-07-29T21:37:13.001Z",
+  "generatedAt": "2026-07-29T21:52:29.254Z",
   "attribution": "AI voices by ElevenLabs — elevenlabs.io",
   "assets": {
     "general/intro": "general/intro.mp3",
@@ -19,5 +19,12 @@
     "operators/italia": "operators/italia.mp3",
     "operators/usa": "operators/usa.mp3",
     "operators/giappone": "operators/giappone.mp3"
+  },
+  "cast": {
+    "general": {
+      "name": "Generale Vittorio Serra",
+      "voiceId": "I1jmfPeU1r3oWbr8j7vn",
+      "profile": "Italian military baritone"
+    }
   }
 }
