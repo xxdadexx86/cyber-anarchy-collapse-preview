@@ -1,6 +1,6 @@
 {
   "provider": "ElevenLabs",
-  "generatedAt": "2026-07-29T21:52:29.254Z",
+  "generatedAt": "2026-07-29T22:05:17.181Z",
   "attribution": "AI voices by ElevenLabs — elevenlabs.io",
   "assets": {
     "general/intro": "general/intro.mp3",
@@ -18,7 +18,20 @@
     "journalist/breaking-news": "journalist/breaking-news.mp3",
     "operators/italia": "operators/italia.mp3",
     "operators/usa": "operators/usa.mp3",
-    "operators/giappone": "operators/giappone.mp3"
+    "operators/giappone": "operators/giappone.mp3",
+    "journalist/events/blackout-catena": "journalist/events/blackout-catena.mp3",
+    "journalist/events/ospedali-tilt": "journalist/events/ospedali-tilt.mp3",
+    "journalist/events/crollo-borsistico": "journalist/events/crollo-borsistico.mp3",
+    "journalist/events/task-force-internazionale": "journalist/events/task-force-internazionale.mp3",
+    "journalist/events/whistleblower": "journalist/events/whistleblower.mp3",
+    "journalist/events/contromisura-regionale": "journalist/events/contromisura-regionale.mp3",
+    "journalist/events/pista-fredda": "journalist/events/pista-fredda.mp3",
+    "journalist/events/scandalo-diplomatico": "journalist/events/scandalo-diplomatico.mp3",
+    "journalist/events/panico-mediatico": "journalist/events/panico-mediatico.mp3",
+    "journalist/events/mercato-zero-day": "journalist/events/mercato-zero-day.mp3",
+    "journalist/events/near-discovery-started": "journalist/events/near-discovery-started.mp3",
+    "journalist/events/near-discovery-escaped": "journalist/events/near-discovery-escaped.mp3",
+    "journalist/events/near-discovery-exposed": "journalist/events/near-discovery-exposed.mp3"
   },
   "cast": {
     "general": {
